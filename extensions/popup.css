@@ -9,6 +9,7 @@ h2 {
   font-size: 18px;
   text-align: center;
 }
+
 button {
   width: 100%;
   padding: 8px;
@@ -19,6 +20,7 @@ button {
   color: white;
   cursor: pointer;
 }
+
 button:hover {
   background: #45a049;
 }
